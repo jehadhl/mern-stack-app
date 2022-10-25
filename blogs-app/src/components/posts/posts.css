@@ -1,0 +1,6 @@
+.posts{
+    flex: 9;
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    margin: 20px;
+}
